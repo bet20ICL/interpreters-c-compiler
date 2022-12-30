@@ -1,0 +1,17 @@
+
+    Function_def [
+        type: 
+            Integer [
+                Value: 10
+            ]
+        identifier:
+            
+    ]
+
+    [
+        Variable: 
+    ]
+
+    Identifier [
+        Name: a
+    ]
